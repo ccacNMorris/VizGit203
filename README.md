@@ -1,1 +1,1 @@
-# VizGit203
+# Visualize Yourself Project
