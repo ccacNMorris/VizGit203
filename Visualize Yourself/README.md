@@ -15,7 +15,12 @@
 ### Variable Interest:
 #### I am interested to see the effects of waking up earlier than I am used to.  Your morning routine kind of sets the tone for the rest of the day and is the determining factor on whether the rest of the tasks get done.  I am also very interested in how having a visual of my schedule will shift my demanor towards completing tasks consistently.
 
-# Phase 2
+# Phase 2: Tool to Gather Data
+
+## Google Forms
+
+### Google Forms gave me an easy way to build a survey and import the results to a csv file.  Once in csv format the data can be adjusted and cleaned so that it can be imported into a database.
+
 
 # Phase 3
 
