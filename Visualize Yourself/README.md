@@ -18,9 +18,10 @@
 # Phase 2: Tool to Gather Data
 
 ## Google Forms
-
 ### Google Forms gave me an easy way to build a survey and import the results to a csv file.  Once in csv format the data can be adjusted and cleaned so that it can be imported into a database.
 
+## Calendar
+### A physical calendar is the visual that will display a daily schedule that is to be considered.
 
 # Phase 3
 
