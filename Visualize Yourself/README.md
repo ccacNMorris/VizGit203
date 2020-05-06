@@ -23,9 +23,9 @@
 ## Calendar
 ### A physical calendar is the visual that will display a daily schedule that is to be considered.
 
-# Phase 3
-
-# Phase 4
+# Beta Gathering and Revision
+## Calendar attached shows how my schedule changed from the the experimental/beta data gathering phase to the primary data gathering phase.
+### The calendar throughout this process has been changed multiple times.  Initially I chose created was too zealous.  Implementing the same routine every day of the week did not make sense for how the activites in my day were laid out.  I changed the schedule so that my weekend schedule differed from my weekday schedule but I still was meant with problwms with implementation.  Finally I decided that Weekdays with class should differ rom weekdays without class due to time constraints.  Once I had a set schedule I was sent to work from home due to current events.  My final schedule was is abbreviated enough that it could possibly be implemented everyday.
 
 # Phase 5
  
