@@ -7,7 +7,7 @@
 #### Is there a consistent correlation between task completion and calendar motivation.
 
 ### Rationale:
-#### I wanted to see if looking at a calendar schedule each morning and night would improve my motivation to complete certain tasks throughout the day.   I also wanted to see whether following the schedule or not would effect my feeling of life balance.
+#### I wanted to see if looking at a calendar schedule each morning and night would improve my motivation to complete certain tasks throughout the day.   I also wanted to see whether the type of schedule I created is overall effective.
 
 ### Hypothesis:
 #### I hypothesize that by having a visual of my daily schedule it will motivate me to complete all tasks.  By completing all tasks I will create a healthier and more productive lifestyle for myself.  I am uncertain whether this approach is sustainable due to the unpredictability of life.  Variables can pop up spontaneously that make the schedule impossible to follow.
