@@ -4,7 +4,7 @@
 
 ### Inquiry Question:
 #### What is the overall effectiveness of the calendar schedule?
-#### Is there a completely postive correlation between task completion and calendar motivation.
+#### Is there a consistent correlation between task completion and calendar motivation.
 
 ### Rationale:
 #### I wanted to see if looking at a calendar schedule each morning and night would improve my motivation to complete certain tasks throughout the day.   I also wanted to see whether following the schedule or not would effect my feeling of life balance.
