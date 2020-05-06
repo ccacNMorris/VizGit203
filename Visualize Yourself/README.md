@@ -10,7 +10,7 @@
 #### I wanted to see if looking at a calendar schedule each morning and night would improve my motivation to complete certain tasks throughout the day.   I also wanted to see whether the type of schedule I created is overall effective.
 
 ### Hypothesis:
-#### I hypothesize that by having a visual of my daily schedule it will motivate me to complete all tasks.  By completing all tasks I will create a healthier and more productive lifestyle for myself.  I am uncertain whether this approach is sustainable due to the unpredictability of life.  Variables can pop up spontaneously that make the schedule impossible to follow.
+#### I hypothesize that by having a visual of my daily schedule will motivate me to complete tasks.  By completing all tasks I will create a healthier and more productive lifestyle for myself.  I am uncertain whether this approach is sustainable due to the unpredictability of life.  Variables can pop up spontaneously that make the schedule impossible to follow.
 
 ### Variable Interest:
 #### I am interested to see the effects of waking up earlier than I am used to.  Your morning routine kind of sets the tone for the rest of the day and is the determining factor on whether the rest of the tasks get done.  I am also very interested in how having a visual of my schedule will shift my demanor towards completing tasks consistently.
@@ -37,7 +37,8 @@
 
 
 ## Analysis by Visualization 
-### There are 8 graphs in total.  The main graph compares completion of tasks with calendar motivation.  I noticed many inconsistencies and nuetral answers on this graph.  There are multiple times when task completion is postive while motivation is nuetral or negative and vice versa.  
+### There are 8 graphs in total.  The main graph compares completion of tasks with calendar motivation.  I noticed many inconsistencies and many nuetral answers on this graph.  There are multiple times when task completion did not translate to positive motivation and vice versa.  Neutrality sentiment is also prevalent throughout both lines.  My hypothesis was wrong.  Having a calendar did not generate a sense of obligation to carry out tasks to completion or for whatever specified time.  I believe this is due to the type of schedule I made.  My attempts at creating a schedule did not account for the type of person I am and what motivates me.
 
 
-## Phase 7
+## Reflection
+### This experiment has been eye opening to how I should go about my personal schedules in the future.  Having a day by day list of repetitive tasks does not seem to be the most effective way to make me more organized.  I am a much more spontaneous person than I gave myself credit for.  The rigidity of the having a set schedule each day does not account for the unprecedented things that can pop up.  I believe employing a deadline based schedule is more effective and realistic for sustainability
