@@ -1,1 +1,0 @@
-## Daily and Weekly Surveys
