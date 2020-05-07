@@ -13,7 +13,7 @@
 ### 138 million total voted in 2016 election
 ### 48.1 million Baby Boomers
 ### 31.3 million Millenials 
-
+### With a population of 72.06 million if 16.8 million more millenials voted they would have voted at the same rate as the most influential voting demographic
 ## Sources
 #### [Penn State University Libraries](https://guides.libraries.psu.edu/post-election-2016/voter-turnout)
 #### [Pew Research Center](https://www.pewresearch.org/fact-tank/2017/07/31/gen-zers-millennials-and-gen-xers-outvoted-boomers-and-older-generations-in-2016-election/ft_19-05-20_millennialvotersupdate_moregenxers_updated/)
