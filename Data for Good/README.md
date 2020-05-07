@@ -10,6 +10,9 @@
 #### 72.06 million pop
 
 ## Voters
+### 138 million total voted in 2016 election
+### 48.1 million Baby Boomers
+### 31.3 million Millenials 
 
 ## Sources
 #### [Penn State University Libraries](https://guides.libraries.psu.edu/post-election-2016/voter-turnout)
